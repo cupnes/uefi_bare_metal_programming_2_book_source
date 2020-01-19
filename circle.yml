@@ -1,0 +1,11 @@
+machine:
+  timezone:
+    Asia/Tokyo
+  node:
+    version: 4
+
+test:
+  override:
+    - npm run web:
+        environment:
+          REVIEW_POSTFIX: " "

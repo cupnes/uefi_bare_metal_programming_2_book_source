@@ -1,0 +1,13 @@
+PREDEF:
+  - intro.re
+
+CHAPS:
+  - 01_simple_text_output.re
+  - 02_simple_text_input_ex.re
+  - 03_load_start_image.re
+  - 04_evt_timer.re
+  - 05_other_bs_rs.re
+
+POSTDEF:
+  - postscript.re
+  - refs.re
